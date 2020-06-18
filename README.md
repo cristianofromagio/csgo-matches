@@ -1,6 +1,6 @@
 # csgo-matches
 
-This project was written using an android pho e. Its challenge was for me to write, send to GitHub and use it while on my phone.
+This project was written using an android phone. Its challenge was for me to write, push to a GitHub repository and use it all while on my phone.
 
 ## Requirements
 
@@ -10,3 +10,5 @@ This project was written using an android pho e. Its challenge was for me to wri
 ### Tools used
 
 [`termux`](https://github.com/termux), [`hub`](https://github.com/github/hub), [`micro`](https://micro-editor.github.io/)
+
+![editing index.js with micro-editor](/images/code.png)
