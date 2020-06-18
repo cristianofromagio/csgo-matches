@@ -1,14 +1,14 @@
 {
   "name": "csgo-matches",
   "version": "1.0.0",
-  "description": "",
+  "description": "List upcoming csgo matches using the unofficial hltv api",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "matches": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["csgo","node","termux","matches"],
+  "author": "Cristiano Fromagio",
+  "license": "MIT",
   "dependencies": {
     "hltv": "^2.19.4",
     "luxon": "^1.24.1"
