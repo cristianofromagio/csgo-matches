@@ -6,11 +6,16 @@
   "scripts": {
     "matches": "node index.js"
   },
-  "keywords": ["csgo","node","termux","matches"],
+  "keywords": [
+    "csgo",
+    "node",
+    "termux",
+    "matches"
+  ],
   "author": "Cristiano Fromagio",
   "license": "MIT",
   "dependencies": {
-    "hltv": "^2.19.4",
+    "hltv": "^2.20.1",
     "luxon": "^1.24.1"
   }
 }
