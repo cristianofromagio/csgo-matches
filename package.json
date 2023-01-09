@@ -16,6 +16,6 @@
   "license": "MIT",
   "dependencies": {
     "hltv": "^2.23.0",
-    "luxon": "^1.25.0"
+    "luxon": "^1.28.1"
   }
 }
