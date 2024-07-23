@@ -15,7 +15,7 @@
   "author": "Cristiano Fromagio",
   "license": "MIT",
   "dependencies": {
-    "hltv": "^2.23.0",
+    "hltv": "^3.5.0",
     "luxon": "^1.25.0"
   }
 }
